@@ -48,4 +48,13 @@
     .quick-notes ul {
         display: block;
     }
+
+    .recipe-card {
+        display: flex;
+    }
+
+    .recipe-video {
+        flex-grow: 1;
+        height: auto;
+    }
 }
