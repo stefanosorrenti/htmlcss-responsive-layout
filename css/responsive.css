@@ -57,4 +57,9 @@
         flex-grow: 1;
         height: auto;
     }
+
+     .social-networks .label {
+        display: inline-block;
+    }
 }
+
