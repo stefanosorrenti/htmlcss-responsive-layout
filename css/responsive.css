@@ -44,4 +44,8 @@
     .recipe-name, .recipe-origin {
         font-size: 40px;
     }
+
+    .quick-notes ul {
+        display: block;
+    }
 }
