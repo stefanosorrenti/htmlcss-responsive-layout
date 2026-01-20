@@ -10,5 +10,9 @@
     main {
         padding: 45px;
     }
+
+    .recipe-origin {
+        display: inline;
+    }
 }
     
