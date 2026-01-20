@@ -61,5 +61,20 @@
      .social-networks .label {
         display: inline-block;
     }
+
+    footer {
+        display: flex;
+        justify-content: space-between;
+        padding: 12px 12px;
+        min-height: auto;
+        align-items: center;
+        font-size: 0.6rem;
+    }
+
+    footer address {
+    line-height: 1.2rem;
+    text-align: left;
+    }
+
 }
 
