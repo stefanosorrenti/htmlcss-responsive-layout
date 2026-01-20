@@ -6,5 +6,9 @@
     #topbar {
         justify-content:flex-start;
     }
+
+    main {
+        padding: 45px;
+    }
 }
     
