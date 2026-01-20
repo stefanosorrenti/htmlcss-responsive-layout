@@ -15,5 +15,18 @@
         display: inline;
         font-size: 30px;
     }
+    
+    .quick-notes ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 14px;
+    }
+    
+    .quick-notes li {
+        flex-shrink: 0;
+        flex-basis: calc(100% / 3 - (14px * 2) / 3);
+    }
 }
+
+
     
