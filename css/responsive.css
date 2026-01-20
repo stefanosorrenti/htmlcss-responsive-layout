@@ -26,6 +26,10 @@
         flex-shrink: 0;
         flex-basis: calc(100% / 3 - (14px * 2) / 3);
     }
+
+    .social-networks button {
+        flex-grow: 1;
+    }
 }
 
 
