@@ -11,8 +11,9 @@
         padding: 45px;
     }
 
-    .recipe-origin {
+    .recipe-name, .recipe-origin {
         display: inline;
+        font-size: 30px;
     }
 }
     
